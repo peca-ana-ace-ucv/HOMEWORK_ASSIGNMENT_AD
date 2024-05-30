@@ -1,0 +1,30 @@
+Test case 1:
+Numarul minim de operatii necesare: 7
+Time Complexity: 0.000000
+Test case 2:
+Numarul minim de operatii necesare: 3
+Time Complexity: 0.000000
+Test case 3:
+Numarul minim de operatii necesare: 6
+Time Complexity: 0.000000
+Test case 4:
+Numarul minim de operatii necesare: 10
+Time Complexity: 0.000000
+Test case 5:
+Numarul minim de operatii necesare: 50
+Time Complexity: 0.000000
+Test case 6:
+Numarul minim de operatii necesare: 192
+Time Complexity: 0.000000
+Test case 7:
+Numarul minim de operatii necesare: 731
+Time Complexity: 0.003000
+Test case 8:
+Numarul minim de operatii necesare: 1307
+Time Complexity: 0.000000
+Test case 9:
+Numarul minim de operatii necesare: 1490
+Time Complexity: 0.041000
+Test case 10:
+Numarul minim de operatii necesare: 2399
+Time Complexity: 0.010000
