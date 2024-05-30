@@ -17,7 +17,7 @@ To run in Command Prompt : First, be sure that you are into the root directory o
 
 Use “cd” command to enter the root directory (for me it’s HOMEWORK_ASSIGNMENT_AD, assuming that you know already where is the root folder, you have to link also the general destination first… For example: if you have the root directory into Downloads, you will use cd to enter into Downloads folder):
 
-     cd TEMA_DE_CASA_AD
+     cd HOMEWORK_ASSIGNMENT_AD
      
 Then run :
 
