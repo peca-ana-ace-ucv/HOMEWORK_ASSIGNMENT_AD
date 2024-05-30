@@ -25,4 +25,4 @@ Then run :
 
 Into CodeBlocks you will open the “.cbp” file from the root folder which is associated with your codeBlocks project.
 
-* The code is working well, is printing the generated random data into “code_editor_in.txt” and the computed results into “code_editor_out.txt”
+The code is working well, is printing the generated random data into “code_editor_in.txt” and the computed results into “code_editor_out.txt”
